@@ -1,0 +1,7 @@
+Tell me how to remove them locally and remotely
+
+delete remote branch -> git push origin :dev   (example)
+
+delete local  branch -> git branch -d dev   (example)
+~
+
